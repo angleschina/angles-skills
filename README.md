@@ -13,6 +13,10 @@
 | [image-understand](./skills/image-understand/SKILL.md) | 看图理解、OCR 提字、二维码解码、图片裁剪压缩比对 | "看这张图" / "图里的字是什么" |
 | [md-report](./skills/md-report/SKILL.md) | 生成结构化 Markdown 报告，可导出 Word/PDF/HTML | "写份周报" / "整理成 Markdown 文档" |
 | [doc-convert](./skills/doc-convert/SKILL.md) | 文档格式互转：PDF↔Word、MD↔Word/PDF、图片合成 PDF 等 | "转成 PDF" / "图片合成一个 PDF" |
+| [web-content-extractor](./skills/web-content-extractor/SKILL.md) | 从 URL 提取网页正文、去噪音、带元信息，长文转 Markdown | "读这个链接" / "总结这个网页" |
+| [mail-operations](./skills/mail-operations/SKILL.md) | 邮件收发、筛选、读正文/附件、回复/自动回复、汇总 | "看看邮箱" / "回复这封邮件" |
+| [json-processing](./skills/json-processing/SKILL.md) | JSON 查询/过滤/合并/排序/扁平化/格式化，转 Markdown | "从这段 JSON 取字段" / "合并两个 JSON" |
+| [log-analyze](./skills/log-analyze/SKILL.md) | 日志过滤、错误频次统计、堆栈提取、时间窗定位、问题归纳 | "看看日志为什么报错" / "哪个错最多" |
 
 ## Skill 结构
 

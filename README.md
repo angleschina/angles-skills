@@ -1,6 +1,6 @@
 # angles-skills
 
-[`angles-cli`](https://github.com/ZSJ305/angles-cli) 的技能库（Skills）——一组开箱即用的文档/办公自动化能力，让 angles 的 agent 能理解 PDF/Word/Excel/图片，生成 PPT 与 Markdown 报告，并在文档格式间自由转换。
+[`angles-cli`](https://github.com/ZSJ305/angles-cli) 的技能库（Skills）——一组开箱即用的文档/办公自动化与开发能力，让 angles 的 agent 能理解 PDF/Word/Excel/图片，生成 PPT 与 Markdown 报告，在文档格式间自由转换，也能辅助生成 iOS(WinUI/UWP)、Windows(WinUI 3 / WSL) 与 静态/动态网站 的源码与工程骨架。
 
 ## 技能列表
 
@@ -17,6 +17,11 @@
 | [mail-operations](./skills/mail-operations/SKILL.md) | 邮件收发、筛选、读正文/附件、回复/自动回复、汇总 | "看看邮箱" / "回复这封邮件" |
 | [json-processing](./skills/json-processing/SKILL.md) | JSON 查询/过滤/合并/排序/扁平化/格式化，转 Markdown | "从这段 JSON 取字段" / "合并两个 JSON" |
 | [log-analyze](./skills/log-analyze/SKILL.md) | 日志过滤、错误频次统计、堆栈提取、时间窗定位、问题归纳 | "看看日志为什么报错" / "哪个错最多" |
+| [ios-app-dev](./skills/ios-app-dev/SKILL.md) | 开发 iOS/iPadOS 原生应用：SwiftUI 源码、界面、数据持久化、工程骨架 | "做个 iOS 应用" / "写 SwiftUI 界面" |
+| [winui-dev](./skills/winui-dev/SKILL.md) | 开发 Windows 原生应用：WinUI 3 (Windows App SDK) C#/XAML、MVVM、MSIX 打包 | "做个 Windows 应用" / "写 WinUI" |
+| [wsl-usage](./skills/wsl-usage/SKILL.md) | 使用 Windows 上的 WSL(WSL2)：装/管理发行版、Linux↔Windows 文件与命令互访 | "在 WSL 里装什么/跑什么" / "怎么访问 Windows 文件" |
+| [static-webgen](./skills/static-webgen/SKILL.md) | 生成静态网页(HTML/CSS/JS，无需后端)：落地页/简历/小站/工具页 | "做个网页/落地页/简历页" / "写个纯前端页" |
+| [dynamic-webgen](./skills/dynamic-webgen/SKILL.md) | 生成带后端的动态网站：路由、数据读写、表单存储、登录鉴权(Flask/Express+SQLite) | "做个能存数据的网站" / "需要登录的网页小程序" |
 
 ## Skill 结构
 

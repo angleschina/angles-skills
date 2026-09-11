@@ -1,0 +1,5 @@
+# 赞助 Angles —— 显示仓库页顶部的 Sponsor 按钮
+# GitHub Sponsors 的收款地区不含中国大陆，故使用 custom 指向含支付宝赞赏码的页面。
+custom:
+  - "https://angleschina.github.io/#donate"
+  - "https://github.com/angleschina/.github/blob/main/SPONSOR.md"
